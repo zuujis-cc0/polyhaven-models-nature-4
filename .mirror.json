@@ -1,5 +1,7 @@
 {
- "assets": {},
+ "assets": {
+  "pine_tree_01": "98997b7406016d998742bd962473c5d63e14da21"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
